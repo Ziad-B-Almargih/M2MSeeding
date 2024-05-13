@@ -1,9 +1,9 @@
 # M2MSeeding
-**this package useful for seeding fake data between two Models with Many-To-Many relationship by some function**
+**this package is useful for seeding fake data between two Models with Many-To-Many relationship by some function**
 
 ## Installation 
 ```
-composer require m2m/seeding
+composer require zbm/m2m-seeding
 ```
 
 ## Usage
