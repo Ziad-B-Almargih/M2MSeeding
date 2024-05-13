@@ -96,7 +96,7 @@ class User extends Model{
 ```php
 use m2m\seeding\M2MSeeding;
 
-M2MSeeding::make(Post::class, User::class, 'reaction')
+M2MSeeding::make(Post::class, User::class, 'reactions')
     ->withFactory(20, 100)
     ->rangeRelation(50, 80)
     ->withPivot(function (){
