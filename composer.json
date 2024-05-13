@@ -1,5 +1,5 @@
 {
-    "name": "m2m/seeding",
+    "name": "zbm/m2m-seeding",
     "description": "seed fake data between many-to-many relation",
     "type": "library",
     "license": "MIT",
